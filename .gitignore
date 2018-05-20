@@ -1,0 +1,5 @@
+nbproject
+image/*
+data/*
+vendor
+src/config.php

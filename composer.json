@@ -1,0 +1,16 @@
+{
+    "name": "hienbv/wp-crawler",
+    "description": "",
+    "require": {
+        "jaeger/querylist": "^4.0",
+        "jaeger/querylist-absolute-url": "^4.0",
+        "php-curl-class/php-curl-class": "^8.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HienBV",
+            "email": "hienbv.me@gmail.com"
+        }
+    ]
+}
